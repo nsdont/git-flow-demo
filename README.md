@@ -1,4 +1,4 @@
 git-flow-demo
 =============
 
-git flow commit demo
+git flow commit demo.
