@@ -3,4 +3,4 @@ git-flow-demo
 
 git flow commit demo.
 
-Test 006
+Test 007
